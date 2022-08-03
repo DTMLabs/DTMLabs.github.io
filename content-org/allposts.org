@@ -1,0 +1,119 @@
+#+Title: Delta Studio
+#+hugo_base_dir: ../
+#+HUGO_SECTION: posts
+#+seq_todo: TODO DRAFT DONE
+
+
+#+property: header-args :eval never-export
+
+#+startup: indent
+
+#+macro: doc [[https://ox-hugo.scripter.co/doc/$1][$2]]
+#+macro: oxhugoissue =ox-hugo= Issue #[[https://github.com/kaushalmodi/ox-hugo/issues/$1][$1]]
+#+macro: hugoissue =hugo= Issue #[[https://github.com/gohugoio/hugo/issues/$1][$1]]
+#+macro: hugopr =hugo= PR #[[https://github.com/gohugoio/hugo/pull/$1][$1]]
+#+macro: bfissue /Blackfriday/ Issue #[[https://github.com/russross/blackfriday/issues/$1][$1]]
+#+macro: commit commit [[https://github.com/kaushalmodi/ox-hugo/commit/$1][$1]]
+
+# https://scripter.co/latex-in-html/
+#+macro: latex @@html:<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>@@
+#+macro: youtube @@html:<div class="org-youtube"><iframe src="https://www.youtube-nocookie.com/embed/$1" allowfullscreen title="YouTube Video"></iframe></div>@@
+
+#+bibliography: ../references.bib
+
+#+author: Delta Alexander Sharp
+
+* About
+:PROPERTIES:
+:EXPORT_FILE_NAME: about
+:END:
+
+
+#+begin_center
+Delta A. Sharp is a:
+ * Lab / Computer Technician
+ * Programmer
+ * Artist
+ * +Mad Scientist+
+#+end_center
+
+These are a collection of my thoughts.
+
+I hope you find them useful, but please take
+everything I say with a grain of salt.
+
+My intention is to help myself learn through the
+act of explaination.
+I don't claim to be an expert in anything~
+
+* TODO Doing Lispy Math                                   :@math:@programing:
+
+** Many people dislike math
+
+*** Some people dislike math because they thought they were bad at it.
+
+*** I use to struggle with math, until I learned to program.
+
+** So What?
+
+*** Math is a really powerful tool that has some bad notation
+
+*** Math done this way is valid lisp code
+
+*** Lisp is a very powerful programming language.
+
+*** Learning lisp makes you better at math and programming
+
+** Lisp is a very interesting way to program
+
+
+
+** Lisp provides an interesting way to do mathematics.
+
+
+
+** Dialects of Lisp
+
+*** Commonlisp
+
+*** Clojure
+
+*** Hy
+
+*** Elisp
+
+** Structure of a lisp program
+
+*** Lisp stands for list processing
+
+*** Every lisp program is a list.
+
+** Examples
+
+*** ( + 2 2)
+
+*** ( / 1 5)
+
+* TODO Triangle of Power
+
+* TODO Writing Resumes for neurodivergent folk                  :ADHD:Autism:
+
+** Writing a resume is hard
+
+** ND folk often have a hard time finding work
+
+** So what?
+
+*** A good resume is your key to a good job
+** Executive Summaries are your chance to stand out
+
+** Have someone trusted double check for errors
+
+** Apply for any job that interests you
+
+** Try to keep to two pages or less
+
+** Add hidden text to the resume for SEO
+
+** Put your most impressive stuff first, then the stuff you're less confident on
+
